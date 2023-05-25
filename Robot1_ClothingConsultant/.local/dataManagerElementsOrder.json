@@ -12,6 +12,10 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "varOutfitSuggestion&Sequence_1",
+        "varRainGear&Sequence_1",
+        "varWeather&Sequence_1",
+        "varTemperature&Sequence_1",
         "varCityName&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
